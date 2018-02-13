@@ -23,7 +23,7 @@ FREQ = 'Y'  # M for monthly, Y for yearly
 PX = 'HS'  # See API docs (https://comtrade.un.org/data/doc/api/#DataRequests) for full info
 FMT = 'csv'  # csv or json
 YEARS = range(2000, 2017)
-SKIP_ID = [4, 8, 12, 20, 24, 28, 31, 32, 36, 40, 44, 48, 50, 51, 52, 56, 58, 60, 64, 68, 84, 112, 204, 533, 535, 660]
+SKIP_ID = []
 
 EMPTY_RESPONSE = 'No data matches your query or your query is too complex. Request JSON or XML format for more information.'
 

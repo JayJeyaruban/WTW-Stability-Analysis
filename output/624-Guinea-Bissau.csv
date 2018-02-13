@@ -1,0 +1,1068 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,01,Live animals,1,No Quantity,,,,,,,6580,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,01,Live animals,1,No Quantity,,,,,,,6580,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,111488,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5862,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,11897,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,59789,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5862,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,5862,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,33940,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,03,"Fish, crustaceans, molluscs, aquatic invertebrates nes",1,No Quantity,,,,,,,10855,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,03,"Fish, crustaceans, molluscs, aquatic invertebrates nes",1,No Quantity,,,,,,,10855,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,469139,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,19235,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,32797,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,16287,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,15729,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,20047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,176,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,15341,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,219788,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,129739,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,142901,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2620,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,3105,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,19516,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,2620,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,120279,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,4349,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,58359701,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,810,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,988631,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,1326105,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,668,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,361808,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,3681,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,24764478,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,702,Singapore,SGP,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,30917869,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,33321,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,202,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,34,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1343,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,23,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,7539,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,202,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,24382,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,,,,,,,28976314,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,10,Cereals,1,No Quantity,,,,,,,53,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,36,Australia,AUS,,,,,,,,10,Cereals,1,No Quantity,,,,,,,488468,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,10491977,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,196,Cyprus,CYP,,,,,,,,10,Cereals,1,No Quantity,,,,,,,240937,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,10,Cereals,1,No Quantity,,,,,,,2479158,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,392,Japan,JPN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,1053264,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,500,Montserrat,MSR,,,,,,,,10,Cereals,1,No Quantity,,,,,,,1465405,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,10,Cereals,1,No Quantity,,,,,,,4385526,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,2609768,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,704,Viet Nam,VNM,,,,,,,,10,Cereals,1,No Quantity,,,,,,,2487278,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,,,,,3274479,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,2515720,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,148,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,60421,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,197307,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,44904,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,1115,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,111193,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,154669,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,1681858,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,148,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,264254,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,62,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,326,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,62,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,326,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,14,"Vegetable plaiting materials, vegetable products nes",1,No Quantity,,,,,,,453785,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,14,"Vegetable plaiting materials, vegetable products nes",1,No Quantity,,,,,,,453785,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,1416409,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,3073,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,72718,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,345,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,18593,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,392,Japan,JPN,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,2990,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,46149,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,1131827,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,2728,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,144132,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,65512,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,44,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,1432,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,316,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,58425,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,4248,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1024861,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1611,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,64801,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,76,Brazil,BRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,366351,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,204,Benin,BEN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,9514,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,78766,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,7583,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,437784,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1611,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1611,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,58452,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,18005,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,188,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,10908,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,6036,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,205191,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,12212,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,15826,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,8217,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,60,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,91437,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,12212,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,12212,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,77439,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,219643,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,188849,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,14361,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,48,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,310,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,4293,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,2146,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,147844,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,188538,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,14361,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,14361,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,50951,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,252117,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,2197,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,3375,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,698,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,8087,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,753,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,1675,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,698,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,157719,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,76916,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,4104452,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,1331,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,45087,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,263,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,4763,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,1570,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,1030,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,161683,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,3712042,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,1331,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,2271,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,175743,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,6835,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,394,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,2060,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,4382,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,303759,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,20760,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,9769,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,82392,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,20760,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,20760,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,164844,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,842,USA,USA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,25993,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,2286484,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,980,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,196,Cyprus,CYP,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,234479,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,1144,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,612250,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,572,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,410584,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,642,Romania,ROU,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,233348,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,90576,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,95251,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,818,Egypt,EGY,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,607299,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,792135,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1675,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,27912,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,671318,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,91229,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,10658,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,18,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,628,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,915,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,531,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,8566,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,,,,,902,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,29,Organic chemicals,1,No Quantity,,,,,,,902,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,467120,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,117138,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,1282,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,1297,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,3028,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,6935,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,1814,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,316697,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,18928,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,,,,,,,29832,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,31,Fertilizers,1,No Quantity,,,,,,,29309,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,31,Fertilizers,1,No Quantity,,,,,,,523,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,155039,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,6987,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,5408,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,14507,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,14384,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,22246,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,76924,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,14582,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,85798,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,1099,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,584,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,2861,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,1247,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,1570,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,50,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,1236,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,614,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,3886,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,41845,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,28726,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,2079,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,210374,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1158,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,391,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,208,Denmark,DNK,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,13734,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,56713,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,3158,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,698,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,620,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,64001,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,68853,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,28423,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,50,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,52,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,27309,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,1012,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,3140,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1919,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,174,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,16721,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,16721,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,689255,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,14,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,14035,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,8583,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,387,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,438467,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,227770,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,640106,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,1469,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,208,Denmark,DNK,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9423,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,757,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4489,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,3477,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2412,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,73,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,387,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4227,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,4177,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,442485,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,165858,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,264755,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2643,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3838,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,3249,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1270,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,2888,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,154364,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,62184,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,34318,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,7534,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,436,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,7098,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,43,"Furskins and artificial fur, manufactures thereof",1,No Quantity,,,,,,,5234,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,43,"Furskins and artificial fur, manufactures thereof",1,No Quantity,,,,,,,5234,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,104228,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,255962,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13892,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,26655,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4257,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,26033,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,229307,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,60046,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,285403,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,12290,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,208,Denmark,DNK,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,35018,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,1583,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,314,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,1538,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,4209,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,279,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,158685,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,65298,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,6189,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,917113,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,30,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,845,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,120115,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,796124,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,51,"Wool, animal hair, horsehair yarn and fabric thereof",1,No Quantity,,,,,,,419,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,51,"Wool, animal hair, horsehair yarn and fabric thereof",1,No Quantity,,,,,,,105,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,51,"Wool, animal hair, horsehair yarn and fabric thereof",1,No Quantity,,,,,,,314,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,,,,,,,16138,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,,,,,,,1919,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,52,Cotton,1,No Quantity,,,,,,,9103,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,52,Cotton,1,No Quantity,,,,,,,1522,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,52,Cotton,1,No Quantity,,,,,,,1919,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,52,Cotton,1,No Quantity,,,,,,,1919,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,52,Cotton,1,No Quantity,,,,,,,3594,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,49649,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,48968,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,680,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,55,Manmade staple fibres,1,No Quantity,,,,,,,3319,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,55,Manmade staple fibres,1,No Quantity,,,,,,,318,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,55,Manmade staple fibres,1,No Quantity,,,,,,,3001,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,8662,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,433,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,8229,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,9222,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,7443,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,1047,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,733,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,58,"Special woven or tufted fabric, lace, tapestry etc",1,No Quantity,,,,,,,2474,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,58,"Special woven or tufted fabric, lace, tapestry etc",1,No Quantity,,,,,,,2190,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,58,"Special woven or tufted fabric, lace, tapestry etc",1,No Quantity,,,,,,,284,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,57913,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,33933,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,19017,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,4963,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,97990,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,133,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,942,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,47476,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,47140,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,2298,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,974409,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,103496,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,1076,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,16871,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,2582,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,893,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,7827,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,56055,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,2724,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,491261,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,272558,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,19067,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,91048,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,675,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,8451,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3273,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10532,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,25300,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,41945,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,,,,,1671,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,,,,,1671,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,1448,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,1448,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,13986,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,39,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,13948,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,32051,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,307,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,8264,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,23479,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,397687,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,57746,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,942,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,8157,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,4905,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,8827,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,768,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,1144,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,313471,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,1727,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,33079,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,69,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,1134,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,1355,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,524,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,18882,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,11115,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,1064796,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,3101,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,226464,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,12561,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,8589,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,277574,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,125273,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,3101,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,414335,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,514325,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,20780,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,22834,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,2980,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,1178,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,311,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,16108,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,5653,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,329441,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,132461,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,20780,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,3360,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,43574,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,1364,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,7141,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,34546,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,523,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,127394,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,288,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,387,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,3623,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,1831,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,1144,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,117300,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,288,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,288,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,2822,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,,,,,11793,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,,,,,11793,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,80,Tin and articles thereof,1,No Quantity,,,,,,,25,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,80,Tin and articles thereof,1,No Quantity,,,,,,,25,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,83845,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,2093,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,1700,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,862,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,3594,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,776,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,68470,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,2093,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,2093,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,6350,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,191357,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,2298,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,628,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,4459,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,1121,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,176,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,70285,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,8639,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,818,Egypt,EGY,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,103750,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,2107812,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,2011655,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,183139,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,56,Belgium,BEL,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1419,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,204,Benin,BEN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1143,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,208,Denmark,DNK,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,19477,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,2737,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,4640,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1396,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,82115,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,364679,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,5463,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,28599,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1221,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,12162,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1515343,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,343953,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,197806,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1102002,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,51152,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,201021,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,3309370,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,2704,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,9664,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,1798386,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,204,Benin,BEN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,88,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,23668,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,12623,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,5923,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,265,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,230164,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,9895,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,844191,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,2704,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,2704,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,231890,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,139909,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,48533,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,17829,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,5234,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,5582,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,19888,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,6510878,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,53423,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1745,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,29479,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,57703,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,872,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,125201,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,432451,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,243526,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,126230,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,52420,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,392,Japan,JPN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,85529,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,470,Malta,MLT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,2617,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,11452,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,55499,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,20655,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,3568760,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,52130,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1745,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1745,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1657433,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1292,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,7938,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,16364,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,752,Sweden,SWE,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,2442,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,826,United Kingdom,GBR,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,3140,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,842,USA,USA,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,9420,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,258244,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,9313,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,204,Benin,BEN,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,4494,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,25,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,419,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,243994,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,,,,,3637,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,,,,,3637,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,92,"Musical instruments, parts and accessories",1,No Quantity,,,,,,,230,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,92,"Musical instruments, parts and accessories",1,No Quantity,,,,,,,230,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,83628,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,83628,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,795306,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,982,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,131739,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,982,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,7501,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,466,Mali,MLI,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,6866,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,8258,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,625076,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,15865,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,18931,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,57,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,384,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,174,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,14687,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,3629,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,23113,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,349,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,28,Antigua and Barbuda,ATG,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,320,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,4977,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,628,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,14396,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,349,,,0
+H1,2003,2003,2003,2,0,4,Re-Import,624,Guinea-Bissau,GNB,624,Guinea-Bissau,GNB,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,349,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,2442,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,97,"Works of art, collectors pieces and antiques",1,No Quantity,,,,,,,2879,,,0
+H1,2003,2003,2003,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,97,"Works of art, collectors pieces and antiques",1,No Quantity,,,,,,,2879,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,01,Live animals,1,No Quantity,,,,,,,21382,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,01,Live animals,1,No Quantity,,,,,,,21382,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,162962,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,13880,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,4043,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,02,Meat and edible meat offal,1,No Quantity,,,,,,,145039,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,03,"Fish, crustaceans, molluscs, aquatic invertebrates nes",1,No Quantity,,,,,,,3430,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,03,"Fish, crustaceans, molluscs, aquatic invertebrates nes",1,No Quantity,,,,,,,3430,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,379887,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,1422,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,3969,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,41190,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,21389,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,205740,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,107599,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,04,"Dairy products, eggs, honey, edible animal product nes",1,No Quantity,,,,,,,1422,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,318449,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,593,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,593,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,7106,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,152,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,4496,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,120856,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,07,Edible vegetables and certain roots and tubers,1,No Quantity,,,,,,,185839,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,5248,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,53130933,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,1211,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,500,Montserrat,MSR,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,578206,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,58275,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,94,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,5248,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,45569794,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,702,Singapore,SGP,,,,,,,,08,"Edible fruit, nuts, peel of citrus fruit, melons",1,No Quantity,,,,,,,6923355,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,15075,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,316,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,3,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,47,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,123,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,870,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,5771,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,8263,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,312,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,,,,,,,8249074,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,,,,,,,141454,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,10,Cereals,1,No Quantity,,,,,,,114996,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,398981,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,392,Japan,JPN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,265987,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,10,Cereals,1,No Quantity,,,,,,,431494,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,5164349,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,10,Cereals,1,No Quantity,,,,,,,141454,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,764,Thailand,THA,,,,,,,,10,Cereals,1,No Quantity,,,,,,,1873266,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,1174921,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,39648,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,17042,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,3705,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,628818,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,134639,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,390717,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,11,"Milling products, malt, starches, inulin, wheat gluten",1,No Quantity,,,,,,,39648,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,2899,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,356,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,356,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,2840,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,12,"Oil seed, oleagic fruits, grain, seed, fruit, etc, nes",1,No Quantity,,,,,,,59,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,14,"Vegetable plaiting materials, vegetable products nes",1,No Quantity,,,,,,,56132,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,14,"Vegetable plaiting materials, vegetable products nes",1,No Quantity,,,,,,,56132,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,913989,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,3012,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,19,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,9633,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,3420,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,431000,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,276919,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,2994,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,15,"Animal,vegetable fats and oils, cleavage products, etc",1,No Quantity,,,,,,,193017,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,23208,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,515,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,649,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,12624,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,9935,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,16,"Meat, fish and seafood food preparations nes",1,No Quantity,,,,,,,515,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,628347,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,75108,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,11104,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1494,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,14271,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,384,Côte d'Ivoire,CIV,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2565,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,109839,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,167736,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,321338,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,75108,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,11016,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,380,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,351,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,2481,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,1904,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,,,,,,,5899,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,378115,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,7297,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,123653,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,2183,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,628,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,77811,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,173840,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,19,"Cereal, flour, starch, milk preparations and products",1,No Quantity,,,,,,,7297,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,251336,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,30299,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,47,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,995,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,665,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,598,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,33122,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,14941,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,116960,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,98997,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,462,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,842,USA,USA,,,,,,,,20,"Vegetable, fruit, nut, etc food preparations",1,No Quantity,,,,,,,14849,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,288128,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,760,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,1254,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,52985,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,162971,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,69779,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,,,,,,,380,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,9412952,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,27887,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,65,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,3724,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,2422,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,74402,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,9092479,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,3363,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,112359,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,24459,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,,,,,,,127566,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,84274,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,12245,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,2099,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,11742,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,23,"Residues, wastes of food industry, animal fodder",1,No Quantity,,,,,,,58189,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,66432,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,13696,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,1425,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,65007,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,,,,,,,13696,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,801828,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,419,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,504,Morocco,MAR,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,46185,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,615426,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,25,"Salt, sulphur, earth, stone, plaster, lime and cement",1,No Quantity,,,,,,,139799,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,6768475,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,438353,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,11179,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,29083,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,15199,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1546,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,391,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,591,Panama,PAN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,17989,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,1779748,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,459368,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,5995,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,4501045,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,298886,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,27,"Mineral fuels, oils, distillation products, etc",1,No Quantity,,,,,,,86400,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,22220,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,12420,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,28,"Inorganic chemicals, precious metal compound, isotopes",1,No Quantity,,,,,,,9800,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,,,,,,,18706,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,29,Organic chemicals,1,No Quantity,,,,,,,127,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,29,Organic chemicals,1,No Quantity,,,,,,,18579,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,299739,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,4826,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,186213,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,21532,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,27704,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,826,United Kingdom,GBR,,,,,,,,30,Pharmaceutical products,1,No Quantity,,,,,,,59464,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,,,,,,,341481,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,31,Fertilizers,1,No Quantity,,,,,,,341481,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,342934,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,239388,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,7287,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,955,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,1500,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,67273,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,32,"Tanning, dyeing extracts, tannins, derivs,pigments etc",1,No Quantity,,,,,,,26531,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,63904,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,594,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,3040,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,1066,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,13024,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,33,"Essential oils, perfumes, cosmetics, toileteries",1,No Quantity,,,,,,,46181,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1373073,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,954,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,760,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,3807,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,770,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,52175,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,1315562,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,34,"Soaps, lubricants, waxes, candles, modelling pastes",1,No Quantity,,,,,,,954,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,2736,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,173,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,44,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,575,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,35,"Albuminoids, modified starches, glues, enzymes",1,No Quantity,,,,,,,1945,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,5177,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,142,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,5035,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,36,"Explosives, pyrotechnics, matches, pyrophorics, etc",1,No Quantity,,,,,,,1,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,17413,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,7271,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,3012,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,,,,,,,7131,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,89469,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,12627,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,2495,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,6251,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,43455,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,7529,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,38,Miscellaneous chemical products,1,No Quantity,,,,,,,17113,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,343661,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9823,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,313,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,6355,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,9823,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,171,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2319,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,2666,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,138760,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,164119,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,39,Plastics and articles thereof,1,No Quantity,,,,,,,28958,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,71310,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,120,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1744,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,1894,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,52659,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,40,Rubber and articles thereof,1,No Quantity,,,,,,,14892,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,,,,,236,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,,,,,,,236,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,18357,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,16286,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,42,"Articles of leather, animal gut, harness, travel goods",1,No Quantity,,,,,,,2071,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,73425,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1067,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,75,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7219,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,44766,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1067,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,21365,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,,,,,310,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,,,,,,,310,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,46,"Manufactures of plaiting material, basketwork, etc.",1,No Quantity,,,,,,,114,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,46,"Manufactures of plaiting material, basketwork, etc.",1,No Quantity,,,,,,,114,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,47,"Pulp of wood, fibrous cellulosic material, waste etc",1,No Quantity,,,,,,,392,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,47,"Pulp of wood, fibrous cellulosic material, waste etc",1,No Quantity,,,,,,,1,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,47,"Pulp of wood, fibrous cellulosic material, waste etc",1,No Quantity,,,,,,,391,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,164550,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,588,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,8854,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,588,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,1183,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,14852,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,118956,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,48,"Paper & paperboard, articles of pulp, paper and board",1,No Quantity,,,,,,,20706,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,42889,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,38756,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,49,"Printed books, newspapers, pictures etc",1,No Quantity,,,,,,,4132,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,,,,,,,14859,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,50,Silk,1,No Quantity,,,,,,,243,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,50,Silk,1,No Quantity,,,,,,,14616,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,51,"Wool, animal hair, horsehair yarn and fabric thereof",1,No Quantity,,,,,,,356,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,51,"Wool, animal hair, horsehair yarn and fabric thereof",1,No Quantity,,,,,,,356,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,,,,,,,11017,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,52,Cotton,1,No Quantity,,,,,,,1913,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,52,Cotton,1,No Quantity,,,,,,,636,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,52,Cotton,1,No Quantity,,,,,,,188,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,52,Cotton,1,No Quantity,,,,,,,8280,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,681,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,20,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,53,"Vegetable textile fibres nes, paper yarn, woven fabric",1,No Quantity,,,,,,,661,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,54,Manmade filaments,1,No Quantity,,,,,,,121,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,54,Manmade filaments,1,No Quantity,,,,,,,7,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,54,Manmade filaments,1,No Quantity,,,,,,,114,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,55,Manmade staple fibres,1,No Quantity,,,,,,,40,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,55,Manmade staple fibres,1,No Quantity,,,,,,,40,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,3996,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,1238,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,2150,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,56,"Wadding, felt, nonwovens, yarns, twine, cordage, etc",1,No Quantity,,,,,,,608,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,5966,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,318,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,,,,,,,5648,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,58,"Special woven or tufted fabric, lace, tapestry etc",1,No Quantity,,,,,,,353,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,58,"Special woven or tufted fabric, lace, tapestry etc",1,No Quantity,,,,,,,353,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,59,"Impregnated, coated or laminated textile fabric",1,No Quantity,,,,,,,5394,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,59,"Impregnated, coated or laminated textile fabric",1,No Quantity,,,,,,,996,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,59,"Impregnated, coated or laminated textile fabric",1,No Quantity,,,,,,,2119,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,59,"Impregnated, coated or laminated textile fabric",1,No Quantity,,,,,,,2280,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,28460,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,609,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,9328,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,18133,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,61,"Articles of apparel, accessories, knit or crochet",1,No Quantity,,,,,,,389,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,18127,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,1197,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,47,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,8813,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,62,"Articles of apparel, accessories, not knit or crochet",1,No Quantity,,,,,,,8070,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,304793,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,380,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,190,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,4223,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,8361,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,1414,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,35687,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,165049,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,62691,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,26419,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,63,"Other made textile articles, sets, worn clothing etc",1,No Quantity,,,,,,,380,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,103377,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,748,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,644,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,665,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9386,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5983,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,13676,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,69658,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,748,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3365,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,,,,,7295,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,,,,,962,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,65,Headgear and parts thereof,1,No Quantity,,,,,,,6333,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,7229,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,5576,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,489,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,594,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,66,"Umbrellas, walking-sticks, seat-sticks, whips, etc",1,No Quantity,,,,,,,570,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,34203,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,19,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,67,"Bird skin, feathers, artificial flowers, human hair",1,No Quantity,,,,,,,34184,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,1002587,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,966298,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,31078,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,68,"Stone, plaster, cement, asbestos, mica, etc articles",1,No Quantity,,,,,,,5211,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,365286,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,7358,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,731,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,8721,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,312836,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,69,Ceramic products,1,No Quantity,,,,,,,35639,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,97364,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,285,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,289,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,87163,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,70,Glass and glassware,1,No Quantity,,,,,,,9627,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,71,"Pearls, precious stones, metals, coins, etc",1,No Quantity,,,,,,,14401,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,71,"Pearls, precious stones, metals, coins, etc",1,No Quantity,,,,,,,14401,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,1672042,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,47558,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,1174,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,1273876,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,3216,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,18178,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,3564,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,30263,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,586,Pakistan,PAK,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,412,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,146052,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,2975,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,198935,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,17246,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,699,India,IND,,,,,,,,72,Iron and steel,1,No Quantity,,,,,,,23710,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,1638450,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,1237066,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,7387,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,1008,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,4827,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,4084,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,331465,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,73,Articles of iron or steel,1,No Quantity,,,,,,,52614,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,6513,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,3727,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,74,Copper and articles thereof,1,No Quantity,,,,,,,2785,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,147099,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,249,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,3331,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,280,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,114204,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,,,,,,,29035,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,,,,,11652,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,,,,,2152,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,78,Lead and articles thereof,1,No Quantity,,,,,,,9500,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,,,,,698,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,79,Zinc and articles thereof,1,No Quantity,,,,,,,698,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,80,Tin and articles thereof,1,No Quantity,,,,,,,800,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,80,Tin and articles thereof,1,No Quantity,,,,,,,760,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,80,Tin and articles thereof,1,No Quantity,,,,,,,40,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,81,"Other base metals, cermets, articles thereof",1,No Quantity,,,,,,,1224,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,81,"Other base metals, cermets, articles thereof",1,No Quantity,,,,,,,950,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,81,"Other base metals, cermets, articles thereof",1,No Quantity,,,,,,,274,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,303892,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,3304,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,810,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,427,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,14752,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,281917,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,82,"Tools, implements, cutlery, etc of base metal",1,No Quantity,,,,,,,2681,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,57683,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,1613,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,101,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,38926,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,83,Miscellaneous articles of base metal,1,No Quantity,,,,,,,17043,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1315873,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,47859,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,266,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,5613,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,136007,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,16927,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,12481,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,1867,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,181,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,44742,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,6873,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,47531,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,852588,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,35373,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,84,"Nuclear reactors, boilers, machinery, etc",1,No Quantity,,,,,,,203282,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,10544051,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,11172,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,187,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,1082343,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,142379,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,1076,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,4267,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,10094,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,333244,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,8259850,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,674,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,699696,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,10498,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,9368,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,842,USA,USA,,,,,,,,85,"Electrical, electronic equipment",1,No Quantity,,,,,,,1548,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,228,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,86,"Railway, tramway locomotives, rolling stock, equipment",1,No Quantity,,,,,,,228,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,4379797,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,33787,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,3135,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,8456,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,337256,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,270,Gambia,GMB,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1403,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,9120,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,49082,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,5707,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,381,Italy,ITA,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,3325,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,392,Japan,JPN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,42564,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1520,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,478,Mauritania,MRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,18351,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,359877,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,1307734,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,4678,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,2188790,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,3649,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,724,Spain,ESP,,,,,,,,87,"Vehicles other than railway, tramway",1,No Quantity,,,,,,,68938,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft, and parts thereof",1,No Quantity,,,,,,,5293,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,88,"Aircraft, spacecraft, and parts thereof",1,No Quantity,,,,,,,5293,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,89,"Ships, boats and other floating structures",1,No Quantity,,,,,,,33314,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,89,"Ships, boats and other floating structures",1,No Quantity,,,,,,,15118,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,89,"Ships, boats and other floating structures",1,No Quantity,,,,,,,18195,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,135702,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,180,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,208,Denmark,DNK,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,9716,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,101827,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,22307,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,90,"Optical, photo, technical, medical, etc apparatus",1,No Quantity,,,,,,,1672,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,,,,,3615,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,,,,,2355,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,,,,,,,1259,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,92,"Musical instruments, parts and accessories",1,No Quantity,,,,,,,522,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,92,"Musical instruments, parts and accessories",1,No Quantity,,,,,,,522,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,48323,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,4296,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,4450,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,26651,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,17222,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,93,"Arms and ammunition, parts and accessories thereof",1,No Quantity,,,,,,,4296,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,1519184,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,156,China,CHN,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,484640,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,251,France,FRA,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,1630,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,276,Germany,DEU,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,2513,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,5280,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,49166,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,965015,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,94,"Furniture, lighting, signs, prefabricated buildings",1,No Quantity,,,,,,,10939,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,17460,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,190,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,1361,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,12358,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,95,"Toys, games, sports requisites",1,No Quantity,,,,,,,3550,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,23145,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,324,Guinea,GIN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,3320,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,528,Netherlands,NLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,1103,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,620,Portugal,PRT,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,9962,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,,,,,,,8759,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,97,"Works of art, collectors pieces and antiques",1,No Quantity,,,,,,,697,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,686,Senegal,SEN,,,,,,,,97,"Works of art, collectors pieces and antiques",1,No Quantity,,,,,,,697,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,99,Commodities not elsewhere specified,1,No Quantity,,,,,,,1,,,0
+H1,2004,2004,2004,2,0,1,Import,624,Guinea-Bissau,GNB,899,"Areas, nes",,,,,,,,,99,Commodities not elsewhere specified,1,No Quantity,,,,,,,1,,,0
+
