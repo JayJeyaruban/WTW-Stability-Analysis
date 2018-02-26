@@ -31,7 +31,7 @@ EMPTY_RESPONSE = 'No data matches your query or your query is too complex. Reque
 class ReqMaker:
     def __init__(self):
         self.last_call = self.__gettime()
-        print('Reqmaker initialized')
+        print 'Reqmaker initialized'
 
     @staticmethod
     def __gettime():
@@ -42,31 +42,31 @@ class ReqMaker:
         current_time = self.__gettime()
         towait = WAIT_TIME - (current_time - self.last_call)
         if towait > 0:
-            print('Waiting ', towait / 1000, ' seconds')
+            print 'Waiting ', towait / 1000, ' seconds'
             time.sleep(towait / 1000)
 
         done = False
 
         while not done:
-            print("Making request")
+            print "Making request"
             r = requests.get(apiurl, params=parameters)
-            print('Url: ', r.url)
+            print 'Url: ', r.url
 
             if r.ok:
-                print("Response OK")
-                print(r.status_code)
+                print "Response OK"
+                print r.status_code
                 self.last_call = self.__gettime()
                 done = True
 
             elif r.status_code == 409:
-                print('Calls too frequent, waiting...')
+                print 'Calls too frequent, waiting...'
                 time.sleep(5)
                 continue
 
             else:
-                print("Response not OK ", r.status_code)
-                print("Failed call: ", r.url)
-                print('Dump: ', r.content)
+                print "Response not OK ", r.status_code
+                print "Failed call: ", r.url
+                print 'Dump: ', r.content
                 done = True
 
         return r
@@ -79,8 +79,10 @@ def run():
     reqmaker = ReqMaker()
     for trader in traders:
         if int(trader['id']) in SKIP_ID:
-            print(trader['text'], 'in skip list')
+            print trader['text'], 'in skip list'
             continue
+        # if trader['id'] != '826':
+        #     continue
 
         savedata(makefilenamefromtrader(trader), getdata(reqmaker, trader))
 
@@ -98,7 +100,7 @@ def getdata(reqmaker, trader):
 
         r = reqmaker.makereq(api_url, payload)
         if r.ok:
-            print('Successful query; code: ', r.status_code)
+            print 'Successful query; code: ', r.status_code
 
             if EMPTY_RESPONSE in r.content:
                 'Empty response. Skipping...'
@@ -121,7 +123,13 @@ def removecsvtitleline(csv_string):
 
 
 def makepayload(trader, partner, year):
-    print('Making payload for ', trader, 'with year ', year, 'and partners ', partner)
+    print 'Making payload for ', trader, 'with year ', year, 'and partners ', partner
+    # formatted_partners = ''
+    # for partner in partners:
+    #     if formatted_partners == '':
+    #         formatted_partners = str(partner)
+    #     else:
+    #         formatted_partners = formatted_partners + ',' + str(partner)
 
     return {'r': trader['id'], 'freq': FREQ, 'ps': year, 'px': PX, 'p': partner, 'cc': CC,
             'fmt': FMT, 'max': MAX_RETURN, 'type': TYPE}
@@ -129,7 +137,7 @@ def makepayload(trader, partner, year):
 
 def savedata(filename, data):
     # print data
-    print('Saving to file: ', filename)
+    print 'Saving to file: ', filename
     with open('output/' + filename, 'w') as f:
         print >> f, data
 
