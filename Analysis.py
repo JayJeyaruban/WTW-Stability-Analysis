@@ -37,52 +37,62 @@ def run():
 
 def node_deletion_sim(aggregate, imports, reporters):
     for i, comm_matrix in enumerate(imports):
+        # Pre-shock statistics for comm network
         curr_stats = matrix_calcs(comm_matrix)
         for reporter in list(range(0, len(reporters))):
-            new_agg, totals = matrix_calcs(node_deletion(aggregate, curr_stats, reporter))
-            rebalanced_imports = balance_imports(aggregate, imports, reporter, totals)
+            # First post-shock statistics for comm network
+            shocked_matrix_stats = matrix_calcs(node_deletion(curr_stats, reporter))
+
+            # Next iteration
+            next_stats = matrix_calcs(iterate_node(shocked_matrix_stats))
+            iterations = 1
+            while calc_rms([shocked_matrix_stats['e'], next_stats['e']]) > 0.01 and iterations < 51:
+                print('Iteration:', iterations, "score:", calc_rms([shocked_matrix_stats['e'], next_stats['e']]))
+                shocked_matrix_stats = next_stats
+                next_stats = iterate_node(next_stats)
 
 
-def balance_imports(old_agg, imports_list, reporter, losses):
-    
+def iterate_node(node_stats):
+    return numpy.matmul(numpy.diag(node_stats['e']), node_stats['m'])
 
 
-def node_deletion(aggregate, comm_import_stats, reporter):
+def node_deletion(comm_import_stats, reporter):
     shocked_matrix = copy.deepcopy(comm_import_stats['matrix'])
-    col_total = shocked_matrix.sum(axis=0)
-    row_total = shocked_matrix.sum(axis=1)
 
-    new_agg_matrix = aggregate['matrix']
     # Apply shock to each trade country deals with for specific commodity
     for i in range(len(shocked_matrix)):
-        new_agg_matrix[reporter, i] = new_agg_matrix[reporter, i] - shocked_matrix[reporter, i]
-        new_agg_matrix[i, reporter] = new_agg_matrix[i, reporter] - shocked_matrix[i, reporter]
-
         shocked_matrix[reporter, i] = 0
         shocked_matrix[i, reporter] = 0
 
-    return new_agg_matrix, {'col': col_total, 'row': row_total}
+    return shocked_matrix
 
 
 def calc_rms(elist):
-    return numpy.sqrt(numpy.mean((elist[0] - elist[1])**2))
+    return numpy.sqrt(numpy.mean((elist[0] - elist[1]) ** 2))
 
 
 def matrix_calcs(comm_matrix):
-    Im = comm_matrix.sum(axis=1)
-    Om = comm_matrix.sum(axis=0)
+    print(comm_matrix)
+    Im = numpy.sum(comm_matrix, axis=1)
+    Om = numpy.sum(comm_matrix, axis=0)
     # print(Im)
     # print(Om)
-    alpha_i = [i / j if i >= j else 1 for i, j in zip(Im, Om)]
+    alpha_i = [i / j if j and i >= j else 1 for i, j in zip(Im, Om)]
     beta_i = [j - i if j > i else 0 for i, j in zip(Im, Om)]
-    m = comm_matrix.divide(Om)
+    m = numpy.zeros((len(comm_matrix), len(comm_matrix)))
+    for i, x in enumerate(comm_matrix):
+        for j, y in enumerate(x):
+            m[i, j] = y / Om[i] if Om[i] > 0 else 0
 
     # TODO Check this formula
-    e = numpy.negative(numpy.dot(inv((numpy.dot(numpy.diag(numpy.diag(alpha_i)),
-                                                numpy.subtract(comm_matrix.transpose()),
-                                                numpy.identity(comm_matrix.shape[0])))), beta_i))
+    e = e_matrix_calc(alpha_i, beta_i, m)
 
     return {"alpha": alpha_i, "beta": beta_i, "m": m, "e": e, 'matrix': comm_matrix}
+
+
+def e_matrix_calc(alpha, beta, matrix):
+    return numpy.add(
+        numpy.matmul(numpy.matmul(numpy.diag(alpha), numpy.transpose(matrix)), numpy.ones(len(matrix))), beta)
 
 
 def makematrices(db, partners, year):
