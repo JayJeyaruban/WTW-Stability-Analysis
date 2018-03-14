@@ -40,54 +40,65 @@ def node_deletion_sim(aggregate, imports, reporters):
         # Pre-shock statistics for comm network
         curr_stats = matrix_calcs(comm_matrix)
         for reporter in list(range(0, len(reporters))):
-            # First post-shock statistics for comm network
-            shocked_matrix_stats = matrix_calcs(node_deletion(curr_stats, reporter))
+            # First post-shock statistics for comm network given 'reporter' stops trading
+            shocked_matrix_stats = node_deletion(curr_stats, reporter)
 
             # Next iteration
-            next_stats = matrix_calcs(iterate_node(shocked_matrix_stats))
+            prev_M = copy.deepcopy(shocked_matrix_stats['matrix'])
+            prev_E = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], prev_M)
+            curr_M = iterate_matrix(prev_E, shocked_matrix_stats['m'])
+            curr_E = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], curr_M)
             iterations = 1
-            while calc_rms([shocked_matrix_stats['e'], next_stats['e']]) > 0.01 and iterations < 51:
-                print('Iteration:', iterations, "score:", calc_rms([shocked_matrix_stats['e'], next_stats['e']]))
-                shocked_matrix_stats = next_stats
-                next_stats = iterate_node(next_stats)
+            while calc_rms(prev_E, curr_E) > 0.01 and iterations < 101:
+                print('Iteration:', iterations, "score:", calc_rms(prev_E, curr_E))
+                iterations += 1
+                prev_E = curr_E
+                curr_M = iterate_matrix(curr_E, shocked_matrix_stats['m'])
+                curr_E = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], curr_M)
 
 
-def iterate_node(node_stats):
-    return numpy.matmul(numpy.diag(node_stats['e']), node_stats['m'])
+def iterate_matrix(old_exp, m):
+    return numpy.matmul(numpy.diag(old_exp), m)
 
 
 def node_deletion(comm_import_stats, reporter):
-    shocked_matrix = copy.deepcopy(comm_import_stats['matrix'])
+    shocked_matrix_stats = copy.deepcopy(comm_import_stats)
 
-    # Apply shock to each trade country deals with for specific commodity
-    for i in range(len(shocked_matrix)):
-        shocked_matrix[reporter, i] = 0
-        shocked_matrix[i, reporter] = 0
+    # Apply shock to each trade reporter has for specific commodity
+    for i in range(len(shocked_matrix_stats['matrix'])):
+        shocked_matrix_stats['matrix'][reporter, i] = 0
+        shocked_matrix_stats['matrix'][i, reporter] = 0
+        shocked_matrix_stats['m'][reporter, i] = 0
+        shocked_matrix_stats['m'][i, reporter] = 0
 
-    return shocked_matrix
+    shocked_matrix_stats['alpha'][reporter] = 0
+
+    shocked_matrix_stats['e'] = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'],
+                                              shocked_matrix_stats['matrix'])
+
+    return shocked_matrix_stats
 
 
-def calc_rms(elist):
-    return numpy.sqrt(numpy.mean((elist[0] - elist[1]) ** 2))
+def calc_rms(prev_E, curr_E):
+    return numpy.sqrt(((curr_E - prev_E) ** 2).mean())
 
 
 def matrix_calcs(comm_matrix):
-    print(comm_matrix)
     Im = numpy.sum(comm_matrix, axis=1)
     Om = numpy.sum(comm_matrix, axis=0)
     # print(Im)
     # print(Om)
-    alpha_i = [i / j if j and i >= j else 1 for i, j in zip(Im, Om)]
-    beta_i = [j - i if j > i else 0 for i, j in zip(Im, Om)]
+    alpha = [i / j if j and i >= j else 1 for i, j in zip(Im, Om)]
+    beta = [j - i if j > i else 0 for i, j in zip(Im, Om)]
     m = numpy.zeros((len(comm_matrix), len(comm_matrix)))
     for i, x in enumerate(comm_matrix):
         for j, y in enumerate(x):
             m[i, j] = y / Om[i] if Om[i] > 0 else 0
 
     # TODO Check this formula
-    e = e_matrix_calc(alpha_i, beta_i, m)
+    e = e_matrix_calc(alpha, beta, m)
 
-    return {"alpha": alpha_i, "beta": beta_i, "m": m, "e": e, 'matrix': comm_matrix}
+    return {"alpha": alpha, "beta": beta, "m": m, "e": e, 'matrix': comm_matrix}
 
 
 def e_matrix_calc(alpha, beta, matrix):
