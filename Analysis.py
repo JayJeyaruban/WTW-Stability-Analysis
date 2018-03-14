@@ -7,6 +7,7 @@ import os
 import matplotlib.pyplot as pyplot
 import numpy
 from numpy.linalg import inv
+import copy
 
 data_dir = 'output/'
 countries_file = 'resources/traders.json'  # File with trader information
@@ -26,11 +27,45 @@ def run():
     db = setupdb()
 
     for year in YEARS:
-        imports, comm_map = makematrices(db, partners, year)
+        imports, aggregate, reporters, comm_map = makematrices(db, partners, year)
         # print(imports)
         # print(exports)
-        for i, comm_matrix in enumerate(imports):
-            alpha, beta, m, e = matrix_calcs(comm_matrix)
+        agg = matrix_calcs(aggregate)
+
+        node_deletion_sim(agg, imports, reporters)
+
+
+def node_deletion_sim(aggregate, imports, reporters):
+    for i, comm_matrix in enumerate(imports):
+        curr_stats = matrix_calcs(comm_matrix)
+        for reporter in list(range(0, len(reporters))):
+            new_agg, totals = matrix_calcs(node_deletion(aggregate, curr_stats, reporter))
+            rebalanced_imports = balance_imports(aggregate, imports, reporter, totals)
+
+
+def balance_imports(old_agg, imports_list, reporter, losses):
+    
+
+
+def node_deletion(aggregate, comm_import_stats, reporter):
+    shocked_matrix = copy.deepcopy(comm_import_stats['matrix'])
+    col_total = shocked_matrix.sum(axis=0)
+    row_total = shocked_matrix.sum(axis=1)
+
+    new_agg_matrix = aggregate['matrix']
+    # Apply shock to each trade country deals with for specific commodity
+    for i in range(len(shocked_matrix)):
+        new_agg_matrix[reporter, i] = new_agg_matrix[reporter, i] - shocked_matrix[reporter, i]
+        new_agg_matrix[i, reporter] = new_agg_matrix[i, reporter] - shocked_matrix[i, reporter]
+
+        shocked_matrix[reporter, i] = 0
+        shocked_matrix[i, reporter] = 0
+
+    return new_agg_matrix, {'col': col_total, 'row': row_total}
+
+
+def calc_rms(elist):
+    return numpy.sqrt(numpy.mean((elist[0] - elist[1])**2))
 
 
 def matrix_calcs(comm_matrix):
@@ -42,11 +77,12 @@ def matrix_calcs(comm_matrix):
     beta_i = [j - i if j > i else 0 for i, j in zip(Im, Om)]
     m = comm_matrix.divide(Om)
 
-    e = numpy.negative(numpy.dot(inv((numpy.dot(numpy.diag(numpy.diag(comm_matrix)),
-                                                comm_matrix.transpose()) - numpy.identity(comm_matrix.shape[0]))),
-                                 beta_i))
+    # TODO Check this formula
+    e = numpy.negative(numpy.dot(inv((numpy.dot(numpy.diag(numpy.diag(alpha_i)),
+                                                numpy.subtract(comm_matrix.transpose()),
+                                                numpy.identity(comm_matrix.shape[0])))), beta_i))
 
-    return alpha_i, beta_i, m, e
+    return {"alpha": alpha_i, "beta": beta_i, "m": m, "e": e, 'matrix': comm_matrix}
 
 
 def makematrices(db, partners, year):
@@ -59,6 +95,7 @@ def makematrices(db, partners, year):
     commodities = pandas.unique(db.CommodityCode.values.ravel())
     commodities.sort()
     imports = [numpy.zeros((unique_entries, unique_entries)) for i in commodities]
+    aggregate = numpy.zeros((unique_entries, unique_entries))
     # exports = [numpy.zeros((unique_entries, unique_entries)) for i in commodities]
 
     reporter_to_i = {key: value for (value, key) in enumerate(reporters)}
@@ -88,11 +125,13 @@ def makematrices(db, partners, year):
             if flow in [IMPORT, REIMPORT]:
                 print("Adding", flow_amount, "to", i, partner_index, "on", comm_index, "in imports")
                 matrix[i, partner_index] = flow_amount
+                aggregate[i, partner_index] = flow_amount
             else:
                 print("Adding", flow_amount, "to", i, partner_index, "on", comm_index, "in exports")
                 matrix[partner_index, i] = flow_amount
+                aggregate[partner_index, i] = flow_amount
 
-    return imports, commodity_to_i
+    return imports, aggregate, reporters, commodity_to_i
 
 
 def setupdb():
