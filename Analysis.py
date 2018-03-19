@@ -7,9 +7,8 @@ import matplotlib.pyplot as pyplot
 import networkx
 import numpy
 import pandas
-import pyximport; pyximport.install()
+import cupy as cp
 from pandas.errors import EmptyDataError
-
 
 data_dir = 'output/'
 countries_file = 'resources/traders.json'  # File with trader information
@@ -29,16 +28,123 @@ def run():
     db = setupdb()
 
     node_deletion_results = []
+    bilateral_deletion_results = []
     for year in YEARS:
         imports, aggregate, reporters, comm_list = makematrices(db, partners, year)
+        imports_g_stats = [calc_g_stats(x) for x in imports]
+        agg_g_stats = calc_g_stats(aggregate)
         # print(imports)
         # print(exports)
         agg = matrix_calcs(aggregate)
 
+        # bilateral_deletion_results.extend(bilaterial_deletion_sim(year, agg, imports, reporters, comm_list))
         node_deletion_results.extend(node_deletion_sim(year, agg, imports, reporters, comm_list))
 
     node_deleteion_db = pandas.concat(node_deletion_results)
-    node_deleteion_db.to_pickle("results/node_deletion.p")
+    node_deleteion_db.to_pickle("node_deletion.p")
+
+    # bilateral_deletion_db = pandas.concat(bilateral_deletion_results)
+    # bilateral_deletion_db.to_pickle("bilateral_deletion.p")
+
+
+def bilaterial_deletion_sim(year, aggregate, imports, reporters, commodities):
+    print("Running bilaterial sim")
+    results = []
+    for comm_i, comm_matrix in enumerate(imports):
+        print("Running sim for comm:", commodities[comm_i])
+        # Pre-shock statistics for comm network
+        curr_stats = matrix_calcs(comm_matrix)
+        for rep_i, reporter_a in enumerate(reporters):
+            for rep_j, reporter_b in enumerate(reporters):
+                if rep_i == rep_j:
+                    continue
+                print("Running for reporter", reporter_a, "to", reporter_b)
+                # First post-shock stats for comm network given trade between 'reporter_a' and 'reporter_b' is deleted
+                shocked_agg_stats, shocked_matrix_stats = bilaterial_deletion(aggregate, curr_stats, rep_i, rep_j)
+                initial_loss = curr_stats['e'] - shocked_matrix_stats['e']
+                if sum(initial_loss) == 0:
+                    continue
+
+                # Iterate comm
+                prev_e = shocked_matrix_stats['e']
+                curr_M = iterate_matrix(prev_e, shocked_matrix_stats['m'])
+                curr_e = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], curr_M)
+                iterations = 1
+                comm_rms = calc_rms(prev_e, curr_e)
+                while comm_rms > 0.01 and iterations < 101:
+                    iterations += 1
+                    prev_e = curr_e
+                    curr_M = iterate_matrix(curr_e, shocked_matrix_stats['m'])
+                    curr_e = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], curr_M)
+                    comm_rms = calc_rms(prev_e, curr_e)
+
+                print("Final it", iterations, "final rms;", comm_rms)
+
+                comm_vul = [1 - x / y if y > 0 else 0 for x, y in zip(curr_e, curr_stats['e'])]
+
+                exp_diff = curr_stats['e'] - curr_e
+                amplification = sum(exp_diff) / sum(initial_loss)
+
+                # Iterate agg network
+                agg_prev_e = shocked_agg_stats['e']
+                agg_curr_M = iterate_matrix(agg_prev_e, shocked_agg_stats['m'])
+                agg_curr_e = e_matrix_calc(shocked_agg_stats['alpha'], shocked_agg_stats['beta'], agg_curr_M)
+                agg_iterations = 1
+                agg_rms = calc_rms(agg_prev_e, agg_curr_e)
+                while agg_rms > 0.01 and agg_iterations < 1001:
+                    agg_iterations += 1
+                    agg_prev_e = agg_curr_e
+                    agg_curr_M = iterate_matrix(agg_curr_e, shocked_agg_stats['m'])
+                    agg_curr_e = e_matrix_calc(shocked_agg_stats['alpha'], shocked_agg_stats['beta'], agg_curr_M)
+
+                print("Final agg it:", agg_iterations, "final rms", agg_rms)
+
+                # TODO is this original E or first E post shock?
+                agg_vul = [1 - x / y if y > 0 else 0 for x, y in zip(agg_curr_e, aggregate['e'])]
+
+                agg_exp_diff = aggregate['e'] - agg_curr_e
+                agg_amplification = sum(agg_exp_diff) - sum(initial_loss)
+
+                entry = pandas.DataFrame(
+                    {'year': year, 'country_a': reporter_a, 'country_b': reporter_b, 'commodity': commodities[comm_i],
+                     'initial_loss': initial_loss, 'comm_iterations': iterations, 'final_comm_loss': sum(exp_diff),
+                     'comm_amplification': amplification, 'av_comm_vul': sum(comm_vul) / len(comm_vul),
+                     'agg_iterations': agg_iterations, 'final_agg_loss': agg_exp_diff,
+                     'agg_amplification': agg_amplification, 'av_agg_vul': sum(agg_vul) / len(agg_vul)})
+
+                results.append(entry)
+
+    return results
+
+
+def bilaterial_deletion(agg_stats, comm_import_stats, rep_i, rep_j):
+    shocked_stats = copy.deepcopy(comm_import_stats)
+    shocked_agg_stats = copy.deepcopy(agg_stats)
+
+    # Apply shock to trades involving rep_i and rep_j
+    shocked_agg_stats['matrix'][rep_i, rep_j] -= shocked_stats['matrix'][rep_i, rep_j]
+    shocked_agg_stats['matrix'][rep_j, rep_i] -= shocked_stats['matrix'][rep_j, rep_i]
+    shocked_agg_stats['m'][rep_i, rep_j] -= shocked_stats['m'][rep_i, rep_j]
+    shocked_agg_stats['m'][rep_j, rep_i] -= shocked_stats['m'][rep_j, rep_i]
+
+    shocked_stats['matrix'][rep_i, rep_j] = 0
+    shocked_stats['matrix'][rep_j, rep_i] = 0
+    shocked_stats['m'][rep_i, rep_j] = 0
+    shocked_stats['m'][rep_j, rep_i] = 0
+
+    shocked_agg_stats['e'] = e_matrix_calc(shocked_agg_stats['alpha'], shocked_agg_stats['beta'],
+                                           shocked_agg_stats['m'])
+    shocked_stats['e'] = e_matrix_calc(shocked_stats['alpha'], shocked_stats['beta'], shocked_stats['m'])
+
+    return shocked_agg_stats, shocked_stats
+
+
+def calc_g_stats(graph):
+    g = networkx.from_numpy_matrix(graph)
+    centrality = networkx.degree_centrality(g)
+    assortativity = networkx.degree_assortativity_coefficient(g)
+
+    return {'centrality': centrality, 'assortativity': assortativity}
 
 
 def node_deletion_sim(year, aggregate, imports, reporters, commodities):
@@ -52,6 +158,8 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
             # First post-shock statistics for comm network given 'reporter' stops trading
             shocked_agg_stats, shocked_matrix_stats = node_deletion(aggregate, curr_stats, j)
             initial_loss = curr_stats['e'] - shocked_matrix_stats['e']
+            if sum(initial_loss) == 0:
+                continue
 
             # Iteration for comm network
             prev_M = copy.deepcopy(shocked_matrix_stats['matrix'])
@@ -69,6 +177,9 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
                 comm_rms = calc_rms(prev_E, curr_E)
 
             print("Final it", iterations, "final rms;", comm_rms)
+
+            comm_vul = [1 - x / y if y > 0 else 0 for x, y in zip(curr_E, curr_stats['e'])]
+
             exp_diff = curr_stats['e'] - curr_E
             amplification = sum(exp_diff) / sum(initial_loss)
 
@@ -87,14 +198,19 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
                 agg_rms = calc_rms(agg_prev_e, agg_curr_e)
 
             print("Final agg it:", agg_iterations, "final rms", agg_rms)
+
+            # TODO is this original E or first E post shock?
+            agg_vul = [1 - x / y if y > 0 else 0 for x, y in zip(agg_curr_e, aggregate['e'])]
+
             agg_exp_diff = aggregate['e'] - agg_curr_e
             agg_amplification = sum(agg_exp_diff) - sum(initial_loss)
 
             entry = pandas.DataFrame(
                 {'year': year, 'country': reporter, 'commodity': commodities[i], 'initial_loss': sum(initial_loss),
                  'comm_iterations': iterations, 'final_comm_loss': sum(exp_diff), 'comm_amplication': amplification,
-                 'agg_iterations': agg_iterations, 'final_agg_loss': agg_exp_diff,
-                 'agg_amplification': agg_amplification})
+                 'av_comm_vul': sum(comm_vul) / len(comm_vul), 'agg_iterations': agg_iterations,
+                 'final_agg_loss': agg_exp_diff, 'agg_amplification': agg_amplification,
+                 'av_agg_vul': sum(agg_vul) / len(agg_vul)})
 
             results.append(entry)
 
@@ -213,6 +329,7 @@ def setupdb():
         concat.rename(columns=lambda x: x.replace(' ', ''), inplace=True)
         concat.rename(columns={'TradeValue(US$)': 'TradeValue'}, inplace=True)
         # print(concat.columns.values)
+        print("Retrieved db")
         return concat
 
     files = glob.glob(os.path.join(data_dir, "*.csv"))
