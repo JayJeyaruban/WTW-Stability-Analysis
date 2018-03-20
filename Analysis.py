@@ -264,7 +264,7 @@ def matrix_calcs(comm_matrix):
         for j, y in enumerate(x):
             m[i, j] = y / Om[i] if Om[i] > 0 else 0
 
-    e = e_matrix_calc(alpha, beta, m)
+    e = e_matrix_calc(alpha, beta, comm_matrix)
 
     return {"alpha": alpha, "beta": beta, "m": m, "e": e, 'matrix': comm_matrix}
 
