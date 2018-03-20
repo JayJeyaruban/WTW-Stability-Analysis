@@ -3,4 +3,7 @@ networkx
 pandas
 matplotlib
 numpy
-cython
+setuptools
+six
+cupy
+

@@ -5,9 +5,9 @@ import os
 
 import matplotlib.pyplot as pyplot
 import networkx
-import numpy
-import pandas
+import numpy as np
 import cupy as cp
+import pandas
 from pandas.errors import EmptyDataError
 
 data_dir = 'output/'
@@ -38,7 +38,8 @@ def run():
         agg = matrix_calcs(aggregate)
 
         # bilateral_deletion_results.extend(bilaterial_deletion_sim(year, agg, imports, reporters, comm_list))
-        node_deletion_results.extend(node_deletion_sim(year, agg, imports, reporters, comm_list))
+        results, comm_vul_list, agg_vul = node_deletion_sim(year, agg, imports, reporters, comm_list)
+        node_deletion_results.extend(results)
 
     node_deleteion_db = pandas.concat(node_deletion_results)
     node_deleteion_db.to_pickle("node_deletion.p")
@@ -139,8 +140,8 @@ def bilaterial_deletion(agg_stats, comm_import_stats, rep_i, rep_j):
     return shocked_agg_stats, shocked_stats
 
 
-def calc_g_stats(graph):
-    g = networkx.from_numpy_matrix(graph)
+def calc_g_stats(matrix):
+    g = networkx.from_numpy_matrix(matrix)
     centrality = networkx.degree_centrality(g)
     assortativity = networkx.degree_assortativity_coefficient(g)
 
@@ -149,27 +150,30 @@ def calc_g_stats(graph):
 
 def node_deletion_sim(year, aggregate, imports, reporters, commodities):
     results = []
+    comm_vuls = []
+    agg_vul_total = np.zeros((len(reporters), len(reporters)))
     for i, comm_matrix in enumerate(imports):
         print("Running sim for comm:", commodities[i])
+        tmp_vuls = np.zeros((len(reporters), len(reporters)))
         # Pre-shock statistics for comm network
         curr_stats = matrix_calcs(comm_matrix)
         for j, reporter in enumerate(reporters):
             print("Running for reporter:", reporter)
             # First post-shock statistics for comm network given 'reporter' stops trading
+            # Values within these dicts are stored on gpu
             shocked_agg_stats, shocked_matrix_stats = node_deletion(aggregate, curr_stats, j)
             initial_loss = curr_stats['e'] - shocked_matrix_stats['e']
-            if sum(initial_loss) == 0:
+            if cp.sum(initial_loss) == 0:
                 continue
 
             # Iteration for comm network
-            prev_M = copy.deepcopy(shocked_matrix_stats['matrix'])
-            prev_E = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], prev_M)
+            prev_E = shocked_matrix_stats['e']
             curr_M = iterate_matrix(prev_E, shocked_matrix_stats['m'])
             curr_E = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'], curr_M)
             iterations = 1
             comm_rms = calc_rms(prev_E, curr_E)
             while comm_rms > 0.01 and iterations < 101:
-                # print('Iteration:', iterations, "rms:", comm_rms)
+                print('Iteration:', iterations, "rms:", comm_rms)
                 iterations += 1
                 prev_E = curr_E
                 curr_M = iterate_matrix(curr_E, shocked_matrix_stats['m'])
@@ -179,6 +183,7 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
             print("Final it", iterations, "final rms;", comm_rms)
 
             comm_vul = [1 - x / y if y > 0 else 0 for x, y in zip(curr_E, curr_stats['e'])]
+            tmp_vuls += comm_vul
 
             exp_diff = curr_stats['e'] - curr_E
             amplification = sum(exp_diff) / sum(initial_loss)
@@ -201,6 +206,7 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
 
             # TODO is this original E or first E post shock?
             agg_vul = [1 - x / y if y > 0 else 0 for x, y in zip(agg_curr_e, aggregate['e'])]
+            agg_vul_total += agg_vul
 
             agg_exp_diff = aggregate['e'] - agg_curr_e
             agg_amplification = sum(agg_exp_diff) - sum(initial_loss)
@@ -208,17 +214,22 @@ def node_deletion_sim(year, aggregate, imports, reporters, commodities):
             entry = pandas.DataFrame(
                 {'year': year, 'country': reporter, 'commodity': commodities[i], 'initial_loss': sum(initial_loss),
                  'comm_iterations': iterations, 'final_comm_loss': sum(exp_diff), 'comm_amplication': amplification,
-                 'av_comm_vul': sum(comm_vul) / len(comm_vul), 'agg_iterations': agg_iterations,
-                 'final_agg_loss': agg_exp_diff, 'agg_amplification': agg_amplification,
-                 'av_agg_vul': sum(agg_vul) / len(agg_vul)})
+                 'agg_iterations': agg_iterations, 'final_agg_loss': agg_exp_diff,
+                 'agg_amplification': agg_amplification})
 
             results.append(entry)
 
-    return results
+        tmp_vuls /= len(reporters)
+        comm_vuls.append(tmp_vuls)
+
+    agg_vul_total /= len(reporters)
+    agg_vul_total /= len(imports)
+
+    return results, comm_vuls, agg_vul_total
 
 
 def iterate_matrix(old_exp, m):
-    return numpy.matmul(numpy.diag(old_exp), m)
+    return cp.matmul(cp.diag(old_exp), m)
 
 
 def node_deletion(agg_stats, comm_import_stats, reporter):
@@ -240,8 +251,18 @@ def node_deletion(agg_stats, comm_import_stats, reporter):
     shocked_agg_stats['alpha'][reporter] -= shocked_matrix_stats['alpha'][reporter]
     shocked_matrix_stats['alpha'][reporter] = 0
 
+    # Store elements on gpu
+    shocked_agg_stats['alpha'] = cp.asarray(shocked_agg_stats['alpha'])
+    shocked_agg_stats['beta'] = cp.asarray(shocked_agg_stats['beta'])
+    shocked_agg_stats['matrix'] = cp.asarray(shocked_agg_stats['matrix'])
+    shocked_agg_stats['m'] = cp.asarray(shocked_agg_stats['m'])
     shocked_agg_stats['e'] = e_matrix_calc(shocked_agg_stats['alpha'], shocked_agg_stats['beta'],
                                            shocked_agg_stats['matrix'])
+
+    shocked_matrix_stats['alpha'] = cp.asarray(shocked_matrix_stats['alpha'])
+    shocked_matrix_stats['beta'] = cp.asarray(shocked_matrix_stats['beta'])
+    shocked_matrix_stats['matrix'] = cp.asarray(shocked_matrix_stats['matrix'])
+    shocked_matrix_stats['m'] = cp.asarray(shocked_matrix_stats['m'])
     shocked_matrix_stats['e'] = e_matrix_calc(shocked_matrix_stats['alpha'], shocked_matrix_stats['beta'],
                                               shocked_matrix_stats['matrix'])
 
@@ -249,29 +270,32 @@ def node_deletion(agg_stats, comm_import_stats, reporter):
 
 
 def calc_rms(prev_E, curr_E):
-    return numpy.sqrt(((curr_E - prev_E) ** 2).mean())
+    return cp.sqrt(((curr_E - prev_E) ** 2).mean())
 
 
 def matrix_calcs(comm_matrix):
-    Im = numpy.sum(comm_matrix, axis=1)
-    Om = numpy.sum(comm_matrix, axis=0)
+    Im = np.sum(comm_matrix, axis=1)
+    Om = np.sum(comm_matrix, axis=0)
     # print(Im)
     # print(Om)
     alpha = [j / i if i and i > j else 1 for i, j in zip(Im, Om)]
     beta = [j - i if j > i else 0 for i, j in zip(Im, Om)]
-    m = numpy.zeros((len(comm_matrix), len(comm_matrix)))
+    m = np.zeros((len(comm_matrix), len(comm_matrix)))
     for i, x in enumerate(comm_matrix):
         for j, y in enumerate(x):
             m[i, j] = y / Om[i] if Om[i] > 0 else 0
 
-    e = e_matrix_calc(alpha, beta, comm_matrix)
+    e = cp.asarray(cpu_e_matrix_calc(alpha, beta, comm_matrix))
 
     return {"alpha": alpha, "beta": beta, "m": m, "e": e, 'matrix': comm_matrix}
 
 
+def cpu_e_matrix_calc(alpha, beta, matrix):
+    return np.add(np.matmul(np.matmul(np.diag(alpha), np.transpose(matrix)), np.ones((len(matrix), len(matrix)))), beta)
+
+
 def e_matrix_calc(alpha, beta, matrix):
-    return numpy.add(
-        numpy.matmul(numpy.matmul(numpy.diag(alpha), numpy.transpose(matrix)), numpy.ones(len(matrix))), beta)
+    return cp.add(cp.matmul(cp.matmul(cp.diag(alpha), cp.transpose(matrix)), cp.ones((len(matrix), len(matrix)))), beta)
 
 
 def makematrices(db, partners, year):
@@ -283,8 +307,8 @@ def makematrices(db, partners, year):
     # print(len(list(map(lambda x: x['id'], traders))))
     commodities = pandas.unique(db.CommodityCode.values.ravel())
     commodities.sort()
-    imports = [numpy.zeros((unique_entries, unique_entries)) for _ in commodities]
-    aggregate = numpy.zeros((unique_entries, unique_entries))
+    imports = [np.zeros((unique_entries, unique_entries)) for _ in commodities]
+    aggregate = np.zeros((unique_entries, unique_entries))
     # exports = [numpy.zeros((unique_entries, unique_entries)) for i in commodities]
 
     reporter_to_i = {key: value for (value, key) in enumerate(reporters)}
